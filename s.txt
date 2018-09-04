@@ -1,5 +1,5 @@
 d linea 1 master
-esto es linea 2 t3
+esto es linea 2 t3/master
 nuevo y mas nuevo y mas t3
 nuevo y mas nuevo y jajajajaj
 lo otro
